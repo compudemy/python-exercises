@@ -1,5 +1,7 @@
 # The geometric sequence is given with the following formula:
 
+# an = 8.2 n -1
+
 # Calculate the sum of the first six elements of this sequence. Print the result to the console as shown below.
 
 # Expected result:
